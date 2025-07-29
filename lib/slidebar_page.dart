@@ -69,10 +69,9 @@ class _SlideBarPageState extends State<SlideBarPage> {
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
-                        _buildTabButton(0, Icons.mail, 'Applied Job'),
+                        _buildTabButton(0, Icons.mail, 'Applied '),
                         _buildTabButton(1, Icons.favorite, 'Favorites'),
-                        _buildTabButton(
-                            2, Icons.auto_awesome, 'AI-Matching Job'),
+                        _buildTabButton(2, Icons.auto_awesome, 'AI-Matching '),
                       ],
                     ),
                   ],
