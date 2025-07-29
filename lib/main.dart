@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test_package/settingpage.dart';
+import 'package:flutter_test_package/slidebar_page.dart';
 import 'package:flutter_test_package/web3d_view.dart';
 
 import 'nationality.dart';
@@ -19,6 +20,6 @@ class MyApp extends StatelessWidget {
           primarySwatch: Colors.orange,
         ),
         debugShowCheckedModeBanner: false,
-        home: ProfileSettingsPage());
+        home: SlideBarPage());
   }
 }

@@ -25,9 +25,9 @@ class _SlideBarPageState extends State<SlideBarPage> {
 
   @override
   Widget build(BuildContext context) {
-    final tabCount = 3;
-    final indicatorWidth = 120.0;
-    final indicatorHeight = 44.0;
+    const tabCount = 3;
+    const indicatorWidth = 120.0;
+    const indicatorHeight = 44.0;
     return Scaffold(
       backgroundColor: Colors.white,
       body: SafeArea(
@@ -52,11 +52,11 @@ class _SlideBarPageState extends State<SlideBarPage> {
                         width: indicatorWidth,
                         height: indicatorHeight,
                         decoration: BoxDecoration(
-                          color: Colors.red,
+                          color: Colors.orange,
                           borderRadius: BorderRadius.circular(28),
                           boxShadow: [
                             BoxShadow(
-                              color: Colors.red.withOpacity(0.2),
+                              color: Colors.orange.withOpacity(0.2),
                               blurRadius: 12,
                               offset: const Offset(0, 4),
                             ),
