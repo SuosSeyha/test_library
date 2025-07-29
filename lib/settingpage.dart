@@ -50,6 +50,7 @@ class _ProfileSettingsPageState extends State<ProfileSettingsPage> {
         padding: const EdgeInsets.all(16.0),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
+          mainAxisAlignment: MainAxisAlignment.center,
           children: [
             // City Dropdown
             Row(
@@ -77,37 +78,37 @@ class _ProfileSettingsPageState extends State<ProfileSettingsPage> {
                     },
                   ),
                 ),
-                     const SizedBox(width: 16),
-            // District Dropdown
-            Expanded(
-              flex: 1,
-              child: DropdownButtonFormField<String>(
-                decoration: const InputDecoration(
-                  labelText: 'District',
-                  border: OutlineInputBorder(),
+                const SizedBox(width: 16),
+                // District Dropdown
+                Expanded(
+                  flex: 1,
+                  child: DropdownButtonFormField<String>(
+                    decoration: const InputDecoration(
+                      labelText: 'District',
+                      border: OutlineInputBorder(),
+                    ),
+                    value: selectedDistrict,
+                    items: selectedCity == null
+                        ? []
+                        : cityDistricts[selectedCity]!
+                            .map((district) => DropdownMenuItem(
+                                  value: district,
+                                  child: Text(district),
+                                ))
+                            .toList(),
+                    onChanged: selectedCity == null
+                        ? null
+                        : (value) {
+                            setState(() {
+                              selectedDistrict = value;
+                              selectedCommune = null; // Reset commune
+                            });
+                          },
+                  ),
                 ),
-                value: selectedDistrict,
-                items: selectedCity == null
-                    ? []
-                    : cityDistricts[selectedCity]!
-                        .map((district) => DropdownMenuItem(
-                              value: district,
-                              child: Text(district),
-                            ))
-                        .toList(),
-                onChanged: selectedCity == null
-                    ? null
-                    : (value) {
-                        setState(() {
-                          selectedDistrict = value;
-                          selectedCommune = null; // Reset commune
-                        });
-                      },
-              ),
-            ),
               ],
             ),
-       
+
             const SizedBox(height: 16),
             // Commune/Sangkat Dropdown
             DropdownButtonFormField<String>(
