@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_test_package/settingpage.dart';
-import 'package:flutter_test_package/web3d_view.dart';
 
+import 'dropdown.dart';
 import 'nationality.dart';
 
 void main() {
@@ -19,6 +18,6 @@ class MyApp extends StatelessWidget {
           primarySwatch: Colors.orange,
         ),
         debugShowCheckedModeBanner: false,
-        home: ProfileSettingsPage());
+        home: CustomBottomSheetDropdown());
   }
 }
