@@ -25,9 +25,9 @@ class _SlideBarPageState extends State<SlideBarPage> {
 
   @override
   Widget build(BuildContext context) {
-    final tabCount = 3;
-    final indicatorWidth = 120.0;
-    final indicatorHeight = 44.0;
+    const tabCount = 3;
+    const indicatorWidth = 120.0;
+    const indicatorHeight = 44.0;
     return Scaffold(
       backgroundColor: Colors.white,
       body: SafeArea(
@@ -46,17 +46,17 @@ class _SlideBarPageState extends State<SlideBarPage> {
                     AnimatedAlign(
                       alignment: Alignment(
                           -1.0 + (_selectedIndex * 2 / (tabCount - 1)), 0),
-                      duration: const Duration(milliseconds: 1000),
+                      duration: const Duration(milliseconds: 1200),
                       curve: Curves.easeInOut,
                       child: Container(
                         width: indicatorWidth,
                         height: indicatorHeight,
                         decoration: BoxDecoration(
-                          color: Colors.red,
+                          color: Colors.orange,
                           borderRadius: BorderRadius.circular(28),
                           boxShadow: [
                             BoxShadow(
-                              color: Colors.red.withOpacity(0.2),
+                              color: Colors.orange.withOpacity(0.2),
                               blurRadius: 12,
                               offset: const Offset(0, 4),
                             ),
@@ -69,10 +69,9 @@ class _SlideBarPageState extends State<SlideBarPage> {
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
-                        _buildTabButton(0, Icons.mail, 'Applied Job'),
+                        _buildTabButton(0, Icons.mail, 'Applied '),
                         _buildTabButton(1, Icons.favorite, 'Favorites'),
-                        _buildTabButton(
-                            2, Icons.auto_awesome, 'AI-Matching Job'),
+                        _buildTabButton(2, Icons.auto_awesome, 'AI-Matching '),
                       ],
                     ),
                   ],
