@@ -46,7 +46,7 @@ class _SlideBarPageState extends State<SlideBarPage> {
                     AnimatedAlign(
                       alignment: Alignment(
                           -1.0 + (_selectedIndex * 2 / (tabCount - 1)), 0),
-                      duration: const Duration(milliseconds: 1000),
+                      duration: const Duration(milliseconds: 1200),
                       curve: Curves.easeInOut,
                       child: Container(
                         width: indicatorWidth,
