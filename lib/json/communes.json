@@ -1,0 +1,2513 @@
+[
+  {
+    "id": "001",
+    "name": "Kamboul",
+    "communes": [
+      "Kamboul",
+      "Kantaok",
+      "Boeng Thum",
+      "Snaor",
+      "Phleung Chheh Roteh",
+      "Prateah Lang",
+      "Kok Roka"
+    ]
+  },
+  {
+    "id": "002",
+    "name": "Boeng Keng Kang",
+    "communes": [
+      "Boeng Keng Kang Ti Muoy",
+      "Boeng Keng Kang Ti Pir",
+      "Boeng Keng Kang Ti Bei",
+      "Tonle Bassac",
+      "Tuol Svay Prey Ti Muoy",
+      "Tuol Svay Prey Ti Pir",
+      "Phsar Daeum Thkov"
+    ]
+  },
+  {
+    "id": "003",
+    "name": "Chbar Ampov",
+    "communes": [
+      "Chbar Ampov Ti Muoy",
+      "Chbar Ampov Ti Pir",
+      "Prek Eng",
+      "Prek Thmey",
+      "Veal Sbov",
+      "Niroth"
+    ]
+  },
+  {
+    "id": "004",
+    "name": "Praek Pnov",
+    "communes": [
+      "Praek Pnov",
+      "Kork Roka",
+      "Ponhea Pon",
+      "Samraong",
+      "Prek Phnov",
+      "Kilomaetr Lek Prammuoy"
+    ]
+  },
+  {
+    "id": "005",
+    "name": "Chraoy Chongvar",
+    "communes": [
+      "Chroy Changvar",
+      "Preaek Lieb",
+      "Preaek Ta Sek",
+      "Bak Kaeng",
+      "Koh Dach"
+    ]
+  },
+  {
+    "id": "006",
+    "name": "Pur SenChey",
+    "communes": [
+      "Chaom Chau Ti Muoy",
+      "Chaom Chau Ti Pir",
+      "Chaom Chau Ti Bei",
+      "Kakab Ti Muoy",
+      "Kakab Ti Pir",
+      "Trapeang Krasang",
+      "Kamboul (transferred)",
+      "Sangkat Krang Thnong",
+      "Sangkat Samraong Kraom"
+    ]
+  },
+  {
+    "id": "007",
+    "name": "Saensokh",
+    "communes": [
+      "Tuek Thla",
+      "Toek Laak Ti Bei",
+      "Ou Baek K'am",
+      "Phnom Penh Thmei",
+      "Khmuonh"
+    ]
+  },
+  {
+    "id": "008",
+    "name": "Russey Keo",
+    "communes": [
+      "Russey Keo",
+      "Kilomaetr Lek Buon",
+      "Chrang Chamres Ti Muoy",
+      "Chrang Chamres Ti Pir",
+      "Tuol Sangkae Ti Muoy",
+      "Tuol Sangkae Ti Pir"
+    ]
+  },
+  {
+    "id": "009",
+    "name": "Mean Chey",
+    "communes": [
+      "Boeng Tumpun",
+      "Boeng Tumpun Ti Pir",
+      "Stueng Meanchey Ti Muoy",
+      "Stueng Meanchey Ti Pir",
+      "Stueng Meanchey Ti Bei",
+      "Chak Angre Leu",
+      "Chak Angre Krom"
+    ]
+  },
+  {
+    "id": "010",
+    "name": "Dangkao",
+    "communes": [
+      "Dangkor",
+      "Prey Veaeng",
+      "Samraong",
+      "Preaek Kampues",
+      "Spean Thma",
+      "Cheung Aek",
+      "Daeum Mean"
+    ]
+  },
+  {
+    "id": "011",
+    "name": "Tuol Kouk",
+    "communes": [
+      "Boeng Kak Ti Muoy",
+      "Boeng Kak Ti Pir",
+      "Phsar Daeum Kor",
+      "Tuek L'ak Ti Muoy",
+      "Tuek L'ak Ti Pir",
+      "Tuek L'ak Ti Bei"
+    ]
+  },
+  {
+    "id": "012",
+    "name": "Prampir Meakkakra",
+    "communes": [
+      "Mittapheap",
+      "Boeng Prolit",
+      "Ou Ruessei Ti Muoy",
+      "Ou Ruessei Ti Pir",
+      "Ou Ruessei Ti Bei",
+      "Ou Ruessei Ti Buon",
+      "Monorom"
+    ]
+  },
+  {
+    "id": "013",
+    "name": "Doun Penh",
+    "communes": [
+      "Wat Phnom",
+      "Phsar Thmei Ti Muoy",
+      "Phsar Thmei Ti Pir",
+      "Phsar Thmei Ti Bei",
+      "Phsar Kandal Ti Muoy",
+      "Phsar Kandal Ti Pir",
+      "Chey Chumneas",
+      "Chaktomuk",
+      "Boeng Reang",
+      "Srah Chak"
+    ]
+  },
+  {
+    "id": "014",
+    "name": "Chamkar Mon",
+    "communes": [
+      "Tonle Bassac",
+      "Boeng Keng Kang Ti Muoy",
+      "Boeng Keng Kang Ti Pir",
+      "Boeng Keng Kang Ti Bei",
+      "Tuol Svay Prey Ti Muoy",
+      "Tuol Svay Prey Ti Pir",
+      "Tuol Tum Poung Ti Muoy",
+      "Tuol Tum Poung Ti Pir",
+      "Olympic"
+    ]
+  },
+  {
+    "id": "015",
+    "name": "Banan",
+    "communes": [
+      "Kantueu Muoy",
+      "Kantueu Pir",
+      "Bay Damram",
+      "Chaeng Mean Chey",
+      "Phnum Sampov",
+      "Snoeng",
+      "Ta Kream",
+      "Ta Meun"
+    ]
+  },
+  {
+    "id": "016",
+    "name": "Thma Koul",
+    "communes": [
+      "Anlong Run",
+      "Bansay Traeng",
+      "Chrouy Sdau",
+      "Kouk Khmum",
+      "Ou Ta Ki",
+      "Ta Meun",
+      "Ta Pung",
+      "Ta Srei",
+      "Thma Koul",
+      "Tuol Ta Thon"
+    ]
+  },
+  {
+    "id": "017",
+    "name": "Bavel",
+    "communes": [
+      "Bavel",
+      "Kdol",
+      "Khla Koun",
+      "Kouk Khmum",
+      "Lvea",
+      "Prey Khpos",
+      "Prey Preal",
+      "Ampil Pram Daeum",
+      "Boeng Pram"
+    ]
+  },
+  {
+    "id": "018",
+    "name": "Ek Phnom",
+    "communes": [
+      "Preaek Norint",
+      "Preaek Luong",
+      "Preaek Khpob",
+      "Preaek Chhka",
+      "Peam Aek",
+      "Samraong Knong",
+      "Kampong Pnov"
+    ]
+  },
+  {
+    "id": "019",
+    "name": "Moung Ruessei",
+    "communes": [
+      "Kear",
+      "Prey Svay",
+      "Robas Mongkol",
+      "Prey Touch",
+      "Reang Kesei",
+      "Moung",
+      "Chrey",
+      "Kouk Ballangk",
+      "Ruessei Krang"
+    ]
+  },
+  {
+    "id": "020",
+    "name": "Rotanak Mondol",
+    "communes": [
+      "Sdau",
+      "Andaeuk Haeb",
+      "Traeng",
+      "Reaksmei Sameakki",
+      "Phlov Meas"
+    ]
+  },
+  {
+    "id": "021",
+    "name": "Sangkae",
+    "communes": [
+      "Anlong Vil",
+      "Norea",
+      "Ta Pon",
+      "Voat Ta Muem",
+      "Rung Chrey",
+      "Kampong Preang",
+      "Kampong Prieng",
+      "Ou Dambang Muoy",
+      "Ou Dambang Pir",
+      "Ou Mal"
+    ]
+  },
+  {
+    "id": "022",
+    "name": "Samlout",
+    "communes": [
+      "Samlout",
+      "Ou Sralau",
+      "Ta Taok",
+      "Kampong Lpov",
+      "Ou Samrel",
+      "Sung",
+      "Mean Chey"
+    ]
+  },
+  {
+    "id": "023",
+    "name": "Sampov Lun",
+    "communes": [
+      "Sampov Lun",
+      "Angkor Ban",
+      "Bos Sbao",
+      "Santepheap",
+      "Serei Mean Chey",
+      "Chrey Seima"
+    ]
+  },
+  {
+    "id": "024",
+    "name": "Phnum Proek",
+    "communes": [
+      "Phnum Proek",
+      "Pech Chenda",
+      "Chak Krey",
+      "Bou",
+      "Barang Thleak"
+    ]
+  },
+  {
+    "id": "025",
+    "name": "Kamrieng",
+    "communes": [
+      "Kamrieng",
+      "Boeng Reang",
+      "Ou Da",
+      "Trang",
+      "Ta Saen",
+      "Ta Krei"
+    ]
+  },
+  {
+    "id": "026",
+    "name": "Koas Krala",
+    "communes": [
+      "Thipakdei",
+      "Kaos Krala",
+      "Hab",
+      "Preah Phos",
+      "Doun Ba",
+      "Chhnal Moan"
+    ]
+  },
+  {
+    "id": "027",
+    "name": "Rukhak Kiri",
+    "communes": [
+      "Preaek Chik",
+      "Prey Tralach",
+      "Mukh Reah",
+      "Sdok Pravoek",
+      "Basak"
+    ]
+  },
+  {
+    "id": "028",
+    "name": "Aek Phnum",
+    "communes": [
+      "Preak Norint",
+      "Samraong Knong",
+      "Preak Khpob",
+      "Preak Luong",
+      "Peam Aek",
+      "Prey Chas",
+      "Kaoh Chiveang"
+    ]
+  },
+  {
+    "id": "029",
+    "name": "Rukh Kiri",
+    "communes": [
+      "Preaek Chik",
+      "Prey Tralach",
+      "Mukh Reah",
+      "Sdok Pravoek",
+      "Basak"
+    ]
+  },
+  {
+    "id": "030",
+    "name": "Mongkol Borei",
+    "communes": [
+      "Banteay Neang",
+      "Bat Trang",
+      "Chamnaom",
+      "Kouk Ballangk",
+      "Koy Maeng",
+      "Ou Prasat",
+      "Phnum Touch",
+      "Rohat Tuek",
+      "Ruessei Kraok",
+      "Sambuor",
+      "Soea",
+      "Srah Reang",
+      "Ta Lam"
+    ]
+  },
+  {
+    "id": "031",
+    "name": "Phnum Srok",
+    "communes": [
+      "Nam Tau",
+      "Poy Char",
+      "Ponley",
+      "Spean Sraeng",
+      "Srah Chik",
+      "Phnum Dei"
+    ]
+  },
+  {
+    "id": "032",
+    "name": "Preah Netr Preah",
+    "communes": [
+      "Chhnuor Mean Chey",
+      "Chob Vari",
+      "Phnum Lieb",
+      "Prasat",
+      "Preah Netr Preah",
+      "Rohal",
+      "Tean Kam",
+      "Tuek Chour",
+      "Bos Sbov"
+    ]
+  },
+  {
+    "id": "033",
+    "name": "Ou Chrov",
+    "communes": [
+      "Changha",
+      "Koub",
+      "Kuttasat",
+      "Ou Beichoan",
+      "Samraong",
+      "Soengh",
+      "Souphi"
+    ]
+  },
+  {
+    "id": "034",
+    "name": "Serei Saophoan",
+    "communes": [
+      "Kampong Svay",
+      "Kaoh Pong Satv",
+      "Mkak",
+      "Ou Ambel",
+      "Phniet",
+      "Prea Ponlea",
+      "Tuek Thla"
+    ]
+  },
+  {
+    "id": "035",
+    "name": "Thma Puok",
+    "communes": [
+      "Banteay Chhmar",
+      "Kouk Kakthen",
+      "Kouk Romiet",
+      "Kumru",
+      "Phum Thmei",
+      "Thma Puok"
+    ]
+  },
+  {
+    "id": "036",
+    "name": "Malai",
+    "communes": [
+      "Boeng Beng",
+      "Malai",
+      "Ou Sralau",
+      "Ou Sampoar",
+      "Tuol Pongro",
+      "Ta Kongg"
+    ]
+  },
+  {
+    "id": "037",
+    "name": "Paoy Paet",
+    "communes": [
+      "Paoy Paet",
+      "Nimitt",
+      "Phsar Kandal"
+    ]
+  },
+  {
+    "id": "038",
+    "name": "Svay Chek",
+    "communes": [
+      "Phkoam",
+      "Sarongk",
+      "Sla Kram",
+      "Svay Chek",
+      "Ta Baen",
+      "Ta Phou",
+      "Treas",
+      "Roluos"
+    ]
+  },
+  {
+    "id": "039",
+    "name": "Batheay",
+    "communes": [
+      "Batheay",
+      "Chbar Ampov",
+      "Chealea",
+      "Cheung Prey",
+      "Me Pring",
+      "Ph'av",
+      "Sambour",
+      "Sandaek",
+      "Tang Krang",
+      "Tang Krasang",
+      "Trab",
+      "Tumnob"
+    ]
+  },
+  {
+    "id": "040",
+    "name": "Chamkar Leu",
+    "communes": [
+      "Bos Khnor",
+      "Chamkar Andoung",
+      "Cheyyou",
+      "Lvea Leu",
+      "Spueu",
+      "Svay Teab",
+      "Ta Ong",
+      "Ta Prok"
+    ]
+  },
+  {
+    "id": "041",
+    "name": "Cheung Prey",
+    "communes": [
+      "Khnor Dambang",
+      "Kouk Rovieng",
+      "Pdau Chum",
+      "Prey Char",
+      "Pring Chrum",
+      "Sampong Chey",
+      "Sdaeung Chey",
+      "Soutip",
+      "Sramar",
+      "Trapeang Kor"
+    ]
+  },
+  {
+    "id": "042",
+    "name": "Kampong Cham",
+    "communes": [
+      "Boeng Kok",
+      "Kampong Cham",
+      "Sambuor Meas",
+      "Veal Vong"
+    ]
+  },
+  {
+    "id": "043",
+    "name": "Kampong Siem",
+    "communes": [
+      "Ampil",
+      "Hanchey",
+      "Kien Chrey",
+      "Kokor",
+      "Kaoh Mitt",
+      "Kaoh Roka",
+      "Kaoh Samraong",
+      "Kaoh Tontuem",
+      "Krala",
+      "Ou Svay",
+      "Ro'ang",
+      "Rumchek",
+      "Srak",
+      "Trean",
+      "Vihear Thum"
+    ]
+  },
+  {
+    "id": "044",
+    "name": "Kang Meas",
+    "communes": [
+      "Angkor Ban",
+      "Kang Ta Noeng",
+      "Khchau",
+      "Peam Chi Kang",
+      "Preaek Koy",
+      "Preaek Krabau",
+      "Reay Pay",
+      "Roka Ar",
+      "Roka Koy",
+      "Sdau",
+      "Sour Kong"
+    ]
+  },
+  {
+    "id": "045",
+    "name": "Kaoh Soutin",
+    "communes": [
+      "Kampong Reab",
+      "Kaoh Soutin",
+      "Lve",
+      "Moha Leaph",
+      "Moha Khnhoung",
+      "Peam Prathnuoh",
+      "Pongro",
+      "Preaek Ta Nong"
+    ]
+  },
+  {
+    "id": "046",
+    "name": "Prey Chhor",
+    "communes": [
+      "Baray",
+      "Boeng Nay",
+      "Chrey Vien",
+      "Khvet Thum",
+      "Kor",
+      "Krouch",
+      "Lvea",
+      "Mien",
+      "Prey Chhor",
+      "Sour Saen",
+      "Samraong",
+      "Sragnae",
+      "Thma Pun",
+      "Tong Rong",
+      "Trapeang Preah"
+    ]
+  },
+  {
+    "id": "047",
+    "name": "Srei Santhor",
+    "communes": [
+      "Baray",
+      "Chi Bal",
+      "Khnar Sa",
+      "Kaoh Andaet",
+      "Mean Chey",
+      "Phteah Kandal",
+      "Pram Yam",
+      "Preaek Dambouk",
+      "Preaek Pou",
+      "Preaek Rumdeng",
+      "Ruessei Srok",
+      "Svay Pou",
+      "Svay Khsach Phnum",
+      "Tong Tralach"
+    ]
+  },
+  {
+    "id": "048",
+    "name": "Stueng Trang",
+    "communes": [
+      "Areaks Tnot",
+      "Dang Kdar",
+      "Khpob Ta Nguon",
+      "Me Sar Chrey",
+      "Ou Mlu",
+      "Peam Kaoh Snar",
+      "Preah Andoung",
+      "Preah Bak",
+      "Preah Kak",
+      "Soupheas",
+      "Tuol Preah Khleang",
+      "Tuol Sambuor"
+    ]
+  },
+  {
+    "id": "049",
+    "name": "Baribour",
+    "communes": [
+      "Anhchanh Rung",
+      "Chhnok Tru",
+      "Chak",
+      "Khon Rang",
+      "Kampong Preah Kokir",
+      "Melum",
+      "Phsar",
+      "Pech Changvar"
+    ]
+  },
+  {
+    "id": "050",
+    "name": "Chol Kiri",
+    "communes": [
+      "Chol Sar",
+      "Kaoh Thkov",
+      "Kampong Ous",
+      "Peam Chhkaok",
+      "Prey Kri"
+    ]
+  },
+  {
+    "id": "051",
+    "name": "Kampong Chhnang",
+    "communes": [
+      "Phsar Chhnang",
+      "Kampong Chhnang",
+      "Ph'er",
+      "Khsam"
+    ]
+  },
+  {
+    "id": "052",
+    "name": "Kampong Leaeng",
+    "communes": [
+      "Ampil Tuek",
+      "Chhuk Sa",
+      "Chres",
+      "Kampong Tralach",
+      "Longveaek",
+      "Ou Ruessei",
+      "Peani",
+      "Saeb",
+      "Ta Ches",
+      "Thma Edth"
+    ]
+  },
+  {
+    "id": "053",
+    "name": "Kampong Tralach",
+    "communes": [
+      "Ampil Tuek",
+      "Chhuk Sa",
+      "Chres",
+      "Kampong Tralach",
+      "Longveaek",
+      "Ou Ruessei",
+      "Peani",
+      "Saeb",
+      "Ta Ches",
+      "Thma Edth"
+    ]
+  },
+  {
+    "id": "054",
+    "name": "Rolea B'ier",
+    "communes": [
+      "Andoung Snay",
+      "Banteay Preal",
+      "Cheung Kreav",
+      "Chrey Bak",
+      "Kouk Banteay",
+      "Krang Leav",
+      "Pongro",
+      "Prasnoeb",
+      "Prey Mul",
+      "Rolea B'ier",
+      "Srae Thmei",
+      "Svay Chrum",
+      "Tuek Hout"
+    ]
+  },
+  {
+    "id": "055",
+    "name": "Sameakki Mean Chey",
+    "communes": [
+      "Chhean Laeung",
+      "Khna Chhmar",
+      "Krang Lvea",
+      "Peam",
+      "Sedthei",
+      "Svay",
+      "Svay Chuk",
+      "Tbaeng Khpos",
+      "Thlok Vien"
+    ]
+  },
+  {
+    "id": "056",
+    "name": "Tuek Phos",
+    "communes": [
+      "Akphivoadth",
+      "Chieb",
+      "Chaong Maong",
+      "Kbal Tuek",
+      "Khlong Popok",
+      "Krang Skear",
+      "Tang Krasang",
+      "Tuol Khpos"
+    ]
+  },
+  {
+    "id": "057",
+    "name": "Basedth",
+    "communes": [
+      "Boeng",
+      "Chhnae Taut",
+      "Chonmok",
+      "Kak",
+      "Kat Phluk",
+      "Khtum Krang",
+      "Nitean",
+      "Pneay",
+      "Pongro",
+      "Preah Khae",
+      "Prey Rumduol",
+      "Prey Thum",
+      "Svay Chrum",
+      "Svay Rumpear",
+      "Trapeang Thum"
+    ]
+  },
+  {
+    "id": "058",
+    "name": "Chbar Mon",
+    "communes": [
+      "Chbar Mon",
+      "Kandaol Dom",
+      "Roka Thum",
+      "Svay Kravan",
+      "Trach Tong"
+    ]
+  },
+  {
+    "id": "059",
+    "name": "Kong Pisei",
+    "communes": [
+      "Angk Popel",
+      "Chongruk",
+      "Moha Sang",
+      "Pechr Muni",
+      "Preah Nipean",
+      "Prey Nheat",
+      "Prey Vihear",
+      "Roka Kaoh",
+      "Sdok",
+      "Snom Prampir",
+      "Srang",
+      "Tuek L’ak",
+      "Veal"
+    ]
+  },
+  {
+    "id": "060",
+    "name": "Aoral",
+    "communes": [
+      "Aoral",
+      "Chrey",
+      "Dambouk Rung",
+      "Haong Samnam",
+      "Kampong Pnov",
+      "Reaksmei Sameakki",
+      "Sangkae Satob",
+      "Sla",
+      "Trapeang Chour",
+      "Trapeang Kak"
+    ]
+  },
+  {
+    "id": "061",
+    "name": "Odongk",
+    "communes": [
+      "Chan Saen",
+      "Cheung Roas",
+      "Damnak Reang",
+      "Khsem Khsant",
+      "Peang Lvea",
+      "Phnom Touch",
+      "Veal Pung",
+      "Yutth Sameakki"
+    ]
+  },
+  {
+    "id": "062",
+    "name": "Phnum Sruoch",
+    "communes": [
+      "Chumreah Pen",
+      "Damrei Slab",
+      "Kiri Vongsa",
+      "Krang Dei Vay",
+      "Ou",
+      "Prey Khmum",
+      "Prey Rumdeng",
+      "Reaks",
+      "Santepheap",
+      "Tnaot Chum",
+      "Tong Trea",
+      "Yos"
+    ]
+  },
+  {
+    "id": "063",
+    "name": "Samraong Tong",
+    "communes": [
+      "Kahaeng",
+      "Khtum Krang",
+      "Krang Ampil",
+      "Mean Chey",
+      "Pneay",
+      "Roleang Kreul",
+      "Samrong Tong",
+      "Sambour",
+      "Saen Dei",
+      "Skuh",
+      "Tang Krouch",
+      "Thummoda Ar",
+      "Trapeang Kong",
+      "Tumpoar Meas",
+      "Voa Sar"
+    ]
+  },
+  {
+    "id": "064",
+    "name": "Thpong",
+    "communes": [
+      "Amleang",
+      "Monourom",
+      "O",
+      "Prambei Mum",
+      "Rung Roeang",
+      "Toap Mean",
+      "Veal Pon",
+      "Yea Angk"
+    ]
+  },
+  {
+    "id": "065",
+    "name": "Baray",
+    "communes": [
+      "Andoung Pou",
+      "Bakan",
+      "Ballangk",
+      "Baray",
+      "Boeng",
+      "Chaeung Daeung",
+      "Chhuk Khsach",
+      "Chong Doung",
+      "Chrolong",
+      "Krava"
+    ]
+  },
+  {
+    "id": "066",
+    "name": "Kampong Svay",
+    "communes": [
+      "Chey",
+      "Damrei Slab",
+      "Kampong Kou",
+      "Kampong Svay",
+      "Kdei Doung",
+      "Nipech",
+      "Phat Sanday",
+      "San Kor",
+      "Trapeang Ruessei",
+      "Trea",
+      "Voa Yeav"
+    ]
+  },
+  {
+    "id": "067",
+    "name": "Stueng Saen",
+    "communes": [
+      "Achar Leak",
+      "Damrei Choan Khla",
+      "Kampong Thom",
+      "Kampong Roteh",
+      "Kdei Ta Chen",
+      "Ou Kanthor",
+      "Srayov"
+    ]
+  },
+  {
+    "id": "068",
+    "name": "Prasat Ballangk",
+    "communes": [
+      "Koul",
+      "Prasat",
+      "Sala Visai",
+      "Sro Yong",
+      "Ta Ong",
+      "Tuol Ta Ek",
+      "Tuol Vihear"
+    ]
+  },
+  {
+    "id": "069",
+    "name": "Prasat Sambour",
+    "communes": [
+      "Chhean Muk",
+      "Kampong Samraong",
+      "Kien Sangkae",
+      "Sambour",
+      "Serei Sokha"
+    ]
+  },
+  {
+    "id": "070",
+    "name": "Sandan",
+    "communes": [
+      "Chheuteal",
+      "Dang Kambet",
+      "Klaeng",
+      "Mean Rith",
+      "Ngan",
+      "Sandan",
+      "Sochet",
+      "Tum Ring",
+      "Veal Thom"
+    ]
+  },
+  {
+    "id": "071",
+    "name": "Santuk",
+    "communes": [
+      "Boeng Lvea",
+      "Kakaoh",
+      "Kampong Krabau",
+      "Kdei Doung",
+      "Pnov",
+      "Prasat",
+      "Ti Pou",
+      "Taing Krasang",
+      "Trea",
+      "Veal Stoung"
+    ]
+  },
+  {
+    "id": "072",
+    "name": "Stoung",
+    "communes": [
+      "Banteay Stoung",
+      "Chamnar Kraom",
+      "Chamnar Leu",
+      "Kampong Chen Cheung",
+      "Kampong Chen Tboung",
+      "Msar Krang",
+      "Peam Bang",
+      "Popok",
+      "Pralay",
+      "Preah Damrei",
+      "Rung Roeang",
+      "Samprouch",
+      "Trea"
+    ]
+  },
+  {
+    "id": "073",
+    "name": "Taing Kouk",
+    "communes": [
+      "Koul",
+      "Sambuor",
+      "Serei Sokhom",
+      "Srayov",
+      "Taing Kouk",
+      "Thmei",
+      "Trapeang Prei",
+      "Trapeang Russei"
+    ]
+  },
+  {
+    "id": "074",
+    "name": "Angkor Chey",
+    "communes": [
+      "Angk Phnum Touch",
+      "Angk Ruessei",
+      "Champei",
+      "Daeum Doung",
+      "Dan Koum",
+      "Dambouk Khpos",
+      "Phnum Kong",
+      "Pong Tuek",
+      "Prey Krang",
+      "Samlanh",
+      "Srae Knong"
+    ]
+  },
+  {
+    "id": "075",
+    "name": "Banteay Meas",
+    "communes": [
+      "Banteay Meas Khang Kaeut",
+      "Banteay Meas Khang Lech",
+      "Kampong Trach Khang Lech",
+      "Prey Thum",
+      "Samraong Kraom",
+      "Samraong Leu",
+      "Sdach Kong Khang Kaeut",
+      "Sdach Kong Khang Lech",
+      "Sdach Kong Khang Tboung",
+      "Tnaot Chong Srang",
+      "Tuk Meas Khang Kaeut",
+      "Tuk Meas Khang Lech",
+      "Trapeang Sala Khang Kaeut",
+      "Trapeang Sala Khang Lech",
+      "Voat Angk Khang Cheung"
+    ]
+  },
+  {
+    "id": "076",
+    "name": "Chhuk",
+    "communes": [
+      "Avy Leu",
+      "Beung Sala Khang Tboung",
+      "Boeng Sala Khang Cheung",
+      "Chhuk",
+      "Dechou",
+      "Krang Snay",
+      "Krang Snuol",
+      "Nhaeng Nhang",
+      "Satv Pong",
+      "Srae Chaeng",
+      "Srae Kan",
+      "Srae Samraong",
+      "Trapeang Phleang",
+      "Trapeang Thum",
+      "Trapeang Veaeng"
+    ]
+  },
+  {
+    "id": "077",
+    "name": "Chum Kiri",
+    "communes": [
+      "Chres",
+      "Chum Kiri",
+      "Srae Chea Khang Cheung",
+      "Srae Chea Khang Tboung",
+      "Srae Chhuk",
+      "Srae Knong",
+      "Trapeang Chhuk"
+    ]
+  },
+  {
+    "id": "078",
+    "name": "Dang Tong",
+    "communes": [
+      "Ang Serei Phok",
+      "Dang Tong",
+      "Kampong Kraeng",
+      "Koun Sat",
+      "L'ak",
+      "L'ang",
+      "Mak Phnom",
+      "Mean Ritth",
+      "Satv Pong",
+      "Srae Samraong"
+    ]
+  },
+  {
+    "id": "079",
+    "name": "Kampong Trach",
+    "communes": [
+      "Ang Serei Phok",
+      "Damnak Kantuot Khang Cheung",
+      "Damnak Kantuot Khang Tboung",
+      "Kampong Trach Khang Kaeut",
+      "Kampong Trach Khang Lech",
+      "Kansouy",
+      "Phnum Tnaot",
+      "Preaek Kroes",
+      "Ruessei Srok",
+      "Svay Tong Khang Cheung",
+      "Svay Tong Khang Tboung",
+      "Ta Ang",
+      "Trapeang Sala",
+      "Trapeang Sangkae"
+    ]
+  },
+  {
+    "id": "080",
+    "name": "Tuek Chhou",
+    "communes": [
+      "Boeng Nimol",
+      "Boeng Tuk",
+      "Chakrei Ting",
+      "Kampong Trach Khang Cheung",
+      "Kampong Trach Khang Tboung",
+      "Koh Touch",
+      "Makprang",
+      "Nhaeng Nhang",
+      "Preaek Tnaot",
+      "Prey Khmum",
+      "Prey Thnang",
+      "Srae Chaeng",
+      "Srae Kan",
+      "Srae Samraong",
+      "Trapeang Sala",
+      "Trapeang Sangkae"
+    ]
+  },
+  {
+    "id": "081",
+    "name": "Kampot",
+    "communes": [
+      "Andoung Khmer",
+      "Kampong Bay",
+      "Kampong Kandal",
+      "Krang Ampil",
+      "Traeuy Koh"
+    ]
+  },
+  {
+    "id": "082",
+    "name": "Bokor",
+    "communes": [
+      "Kaoh Touch",
+      "Preaek Mete Trei",
+      "Preaek Tnaot"
+    ]
+  },
+  {
+    "id": "083",
+    "name": "Kandal Stueng",
+    "communes": [
+      "Anlong Romiet",
+      "Boeung Khyang",
+      "Dei Edth",
+      "Kampong Phnum",
+      "Kandal Stueng",
+      "Kanhchriech",
+      "Khpob Ateav",
+      "Preaek Ambel",
+      "Preaek Sleng",
+      "Ruessei Srok",
+      "Siem Reab",
+      "Sithor",
+      "Svay Chrum",
+      "Svay Prateal",
+      "Trea",
+      "Tuol Prech",
+      "Vihear Suork"
+    ]
+  },
+  {
+    "id": "084",
+    "name": "Kien Svay",
+    "communes": [
+      "Banteay Daek",
+      "Chheu Teal",
+      "Dei Edth",
+      "Kampong Svay",
+      "Kbal Koh",
+      "Kdei Takoy",
+      "Kokir Thum",
+      "Phum Thum",
+      "Preaek Aeng",
+      "Preaek Thmei",
+      "Samraong Thum",
+      "Veal Sbov"
+    ]
+  },
+  {
+    "id": "085",
+    "name": "Khsach Kandal",
+    "communes": [
+      "Bak Dav",
+      "Chey Thum",
+      "Kampong Chamlang",
+      "Kaoh Chouram",
+      "Kaoh Oknha Tei",
+      "Preah Prasab",
+      "Preaek Ampil",
+      "Preaek Luong",
+      "Preaek Ta Kov",
+      "Preaek Ta Meak",
+      "Puk Ruessei",
+      "Roka Chonlueng",
+      "Sanlung",
+      "Sithor",
+      "Svay Chrum",
+      "Svay Romiet",
+      "Ta Aek",
+      "Vihear Suork"
+    ]
+  },
+  {
+    "id": "086",
+    "name": "Kaoh Thum",
+    "communes": [
+      "Chheu Khmau",
+      "Chrouy Ta Kaev",
+      "Kampong Kong",
+      "Kaoh Thum Ka",
+      "Kaoh Thum Kha",
+      "Leuk Daek",
+      "Preaek Chrey",
+      "Preaek Sdei",
+      "Preaek Thmei",
+      "Sampovpoun",
+      "Pouthi Ban"
+    ]
+  },
+  {
+    "id": "087",
+    "name": "Leuk Daek",
+    "communes": [
+      "Kampong Phnum",
+      "Kampong Chamlang",
+      "Kampong Thum",
+      "Kanhchor",
+      "Kaoh Chek",
+      "Kaoh Khael",
+      "Preaek Dach",
+      "Preaek Khpob",
+      "Preaek Slaeng",
+      "Prey Kandieng",
+      "Samraong Leu"
+    ]
+  },
+  {
+    "id": "088",
+    "name": "Lvea Aem",
+    "communes": [
+      "Akat Phnum",
+      "Barong",
+      "Boeng Krum",
+      "Kaoh Kaev",
+      "Kaoh Ream",
+      "Lvea Sa",
+      "Peam Oknha Ong",
+      "Phum Thum",
+      "Preaek Hmum",
+      "Preaek Ta Tan",
+      "Preaek Ta Thma",
+      "Sarikakaev",
+      "Tumnob Thum"
+    ]
+  },
+  {
+    "id": "089",
+    "name": "Mukh Kampul",
+    "communes": [
+      "Bak Khaeng",
+      "Kaoh Dach",
+      "Preaek Anhchanh",
+      "Preaek Dambang",
+      "Roka Kaong Muoy",
+      "Roka Kaong Pir",
+      "Ruessei Chrouy",
+      "Sambuor Meas",
+      "Svay Ampear"
+    ]
+  },
+  {
+    "id": "090",
+    "name": "Angk Snuol",
+    "communes": [
+      "Baek Chan",
+      "Boeng Thum",
+      "Chhak Chheu Neang",
+      "Damnak Ampil",
+      "Kamboul",
+      "Kantaok",
+      "Krang Mkak",
+      "Lumhach",
+      "Mkak",
+      "Ovlaok",
+      "Peuk",
+      "Ponsang",
+      "Prey Puok",
+      "Samraong Leu",
+      "Snao",
+      "Tuol Prech"
+    ]
+  },
+  {
+    "id": "091",
+    "name": "Ponhea Lueu",
+    "communes": [
+      "Chhveang",
+      "Chrey Loas",
+      "Kampong Luong",
+      "Kampong Os",
+      "Kaoh Chen",
+      "Phnum Bat",
+      "Ponhea Lueu",
+      "Ponhea Pon",
+      "Preaek Pnov",
+      "Preaek Ta Teaen",
+      "Samraong",
+      "Tbaeng Kert",
+      "Vihear Luong"
+    ]
+  },
+  {
+    "id": "092",
+    "name": "S'ang",
+    "communes": [
+      "Khpob",
+      "Kaoh Khael",
+      "Kaoh Khsach Tonlea",
+      "Krang Yov",
+      "Prasat",
+      "Preaek Ambel",
+      "Preaek Koy",
+      "S'ang Phnum",
+      "Svay Prateal",
+      "Ta Lon",
+      "Traeuy Sla",
+      "Tuek Vil"
+    ]
+  },
+  {
+    "id": "093",
+    "name": "Ta Khmau",
+    "communes": [
+      "Kampong Samnanh",
+      "Preaek Ho",
+      "Preaek Russey",
+      "Setbou",
+      "Ta Khmau",
+      "Takhmau Khang Cheung",
+      "Takhmau Khang Tboung"
+    ]
+  },
+  {
+    "id": "094",
+    "name": "Botum Sakor",
+    "communes": [
+      "Andoung Teuk",
+      "Kandaol",
+      "Ta Nuon",
+      "Thma Sa",
+      "Trapeang Rung"
+    ]
+  },
+  {
+    "id": "095",
+    "name": "Kiri Sakor",
+    "communes": [
+      "Kaoh Sdach",
+      "Phnhi Meas",
+      "Preaek Khsach",
+      "Preaek Smach"
+    ]
+  },
+  {
+    "id": "096",
+    "name": "Kaoh Kong",
+    "communes": [
+      "Bak Khlang",
+      "Kaoh Kapi",
+      "Tma Sa",
+      "Tuol Kokir"
+    ]
+  },
+  {
+    "id": "097",
+    "name": "Khemara Phoumin",
+    "communes": [
+      "Boeng Preav",
+      "Dang Tong",
+      "Khemara Phoumin",
+      "Stueng Veaeng",
+      "Trapeang Rung"
+    ]
+  },
+  {
+    "id": "098",
+    "name": "Mondol Seima",
+    "communes": [
+      "Bak Khlang",
+      "Kaoh Pao",
+      "Peam Krasaob",
+      "Tma Sa"
+    ]
+  },
+  {
+    "id": "099",
+    "name": "Srae Ambel",
+    "communes": [
+      "Boeng Preav",
+      "Chi Kha Kraom",
+      "Chi Kha Leu",
+      "Chrouy Pras",
+      "Dang Peaeng",
+      "Srae Ambel"
+    ]
+  },
+  {
+    "id": "100",
+    "name": "Thma Bang",
+    "communes": [
+      "Chi Phat",
+      "Chrouy Pras",
+      "Ruessei Chrum",
+      "Thma Bang",
+      "Thma Don"
+    ]
+  },
+  {
+    "id": "101",
+    "name": "Chhloung",
+    "communes": [
+      "Boeng Kachhang",
+      "Chhloung",
+      "Damrei Phong",
+      "Han Chey",
+      "Kampong Kor",
+      "Kanhchor",
+      "Khsom",
+      "Pongro"
+    ]
+  },
+  {
+    "id": "102",
+    "name": "Kracheh",
+    "communes": [
+      "Kaoh Trong",
+      "Kracheh",
+      "Ou Ruessei Muoy",
+      "Ou Ruessei Pir",
+      "Roka Kandal"
+    ]
+  },
+  {
+    "id": "103",
+    "name": "Prek Prasab",
+    "communes": [
+      "Chheu Teal",
+      "Kampong Kor",
+      "Preaek Prasab",
+      "Preaek Saman",
+      "Ruessei Kaev",
+      "Sambok",
+      "Thma Kre",
+      "Tuol Snuol"
+    ]
+  },
+  {
+    "id": "104",
+    "name": "Sambour",
+    "communes": [
+      "Boeng Char",
+      "Kaoh Ta Suy",
+      "Kbal Damrei",
+      "O Koki",
+      "Ruessei Srok",
+      "Sambour",
+      "Sre Chis"
+    ]
+  },
+  {
+    "id": "105",
+    "name": "Snuol",
+    "communes": [
+      "Khsuem",
+      "Khyang",
+      "Pir Thnu",
+      "Snuol",
+      "Srae Chhuk",
+      "Svay Chreah"
+    ]
+  },
+  {
+    "id": "106",
+    "name": "Chetr Borei",
+    "communes": [
+      "Changkrang",
+      "Dar",
+      "Kantout",
+      "Saob",
+      "Thmei",
+      "Thnong"
+    ]
+  },
+  {
+    "id": "107",
+    "name": "Kaev Seima",
+    "communes": [
+      "Chong Phlah",
+      "Kaev Seima",
+      "Memang",
+      "Srae Chhuk",
+      "Srae Khtum",
+      "Srae Preah"
+    ]
+  },
+  {
+    "id": "108",
+    "name": "Kaoh Nheaek",
+    "communes": [
+      "Kaoh Nheaek",
+      "Royas",
+      "Sokh Sant"
+    ]
+  },
+  {
+    "id": "109",
+    "name": "Ou Reang",
+    "communes": [
+      "Dak Dam",
+      "Ou Reang",
+      "Saen Monourom"
+    ]
+  },
+  {
+    "id": "110",
+    "name": "Pech Chreada",
+    "communes": [
+      "Bu Chri",
+      "Krang Teh",
+      "Pou Chrey",
+      "Srae Ampum"
+    ]
+  },
+  {
+    "id": "111",
+    "name": "Saen Monourom",
+    "communes": [
+      "Monourom",
+      "Spean Mean Chey",
+      "Sokh Dom"
+    ]
+  },
+  {
+    "id": "112",
+    "name": "Chey Saen",
+    "communes": [
+      "Chrach",
+      "Chy Kraheng",
+      "Mroum",
+      "Prame",
+      "Putrea",
+      "Sra Aem",
+      "Tasem"
+    ]
+  },
+  {
+    "id": "113",
+    "name": "Chhaeb",
+    "communes": [
+      "Chhaeb Muoy",
+      "Chhaeb Pir",
+      "Mlu Prey Muoy",
+      "Mlu Prey Pir",
+      "Sangke Muoy",
+      "Sangke Pir"
+    ]
+  },
+  {
+    "id": "114",
+    "name": "Choam Ksant",
+    "communes": [
+      "Choam Ksant",
+      "Kantreang",
+      "Kouk Sralau",
+      "Ou Svay",
+      "Pring Thum",
+      "Santepheap",
+      "Tuek Kraham",
+      "Yeang"
+    ]
+  },
+  {
+    "id": "115",
+    "name": "Kuleaen",
+    "communes": [
+      "Kuleaen Tboung",
+      "Kuleaen Cheung",
+      "Phnum Penh",
+      "Phnum Tbaeng Muoy",
+      "Phnum Tbaeng Pir",
+      "Srayang",
+      "Thmei"
+    ]
+  },
+  {
+    "id": "116",
+    "name": "Rovieng",
+    "communes": [
+      "Reaksmei",
+      "Robieb",
+      "Rovieng",
+      "Rung Roeang",
+      "Ruessei Srok",
+      "Srae"
+    ]
+  },
+  {
+    "id": "117",
+    "name": "Sangkum Thmei",
+    "communes": [
+      "Boeng Mealea",
+      "Chhean Muk",
+      "Phum Muoy",
+      "Phum Pir",
+      "Phum Bei"
+    ]
+  },
+  {
+    "id": "118",
+    "name": "Tbaeng Mean Chey",
+    "communes": [
+      "Choam",
+      "Kampong Sralau Muoy",
+      "Kampong Sralau Pir",
+      "Koh Ker",
+      "Pal Hal",
+      "Pou",
+      "Saom"
+    ]
+  },
+  {
+    "id": "119",
+    "name": "Preah Vihear",
+    "communes": [
+      "Kampong Pranak",
+      "Pal Hal"
+    ]
+  },
+  {
+    "id": "120",
+    "name": "Sesan",
+    "communes": [
+      "Kamphun",
+      "Khsach Leav",
+      "Phluk",
+      "Srae Kor",
+      "Talat"
+    ]
+  },
+  {
+    "id": "121",
+    "name": "Siem Bouk",
+    "communes": [
+      "Koh Preah",
+      "O Rei",
+      "Siem Bouk",
+      "Srae Sambour"
+    ]
+  },
+  {
+    "id": "122",
+    "name": "Siem Pang",
+    "communes": [
+      "Preah Romkel",
+      "Santepheap",
+      "Sekong",
+      "Srae Sambour",
+      "Thma Keo"
+    ]
+  },
+  {
+    "id": "123",
+    "name": "Stueng Traeng",
+    "communes": [
+      "Preah Bat",
+      "Samakkhi",
+      "Srah Ruessei",
+      "Stueng Traeng"
+    ]
+  },
+  {
+    "id": "124",
+    "name": "Thala Barivat",
+    "communes": [
+      "Anlong Chrey",
+      "Koh Snaeng",
+      "Ou Rai",
+      "Preah Romkel",
+      "Thala Barivat"
+    ]
+  },
+  {
+    "id": "125",
+    "name": "Borei Ou Svay Senchey",
+    "communes": [
+      "Koh Snaeng",
+      "Ou Svay",
+      "Preah Rumkel",
+      "Samkhuoy"
+    ]
+  },
+  {
+    "id": "126",
+    "name": "Chantrea",
+    "communes": [
+      "Chantrea",
+      "Chres",
+      "Meun Chey",
+      "Prey Kokir",
+      "Sambatt Mean Chey",
+      "Sambuor",
+      "Svay Ta Yean",
+      "Thmei"
+    ]
+  },
+  {
+    "id": "127",
+    "name": "Kampong Rou",
+    "communes": [
+      "Banteay Krang",
+      "Kampong Ampil",
+      "Kampong Trach",
+      "Kouk Pring",
+      "Pouthi Reach",
+      "Prasoutr",
+      "Svay Rumpea",
+      "Thna Thnong"
+    ]
+  },
+  {
+    "id": "128",
+    "name": "Rumduol",
+    "communes": [
+      "Basak",
+      "Bos Mon",
+      "Meun Chey",
+      "Prasat",
+      "Prey Ta Ei",
+      "Prey Thlok",
+      "Svay Kal",
+      "Svay Thum"
+    ]
+  },
+  {
+    "id": "129",
+    "name": "Romeas Haek",
+    "communes": [
+      "Ampil",
+      "Andoung Pou",
+      "Andoung Trabaek",
+      "Angk Prasrae",
+      "Chambak",
+      "Chek",
+      "Doung",
+      "Kampong Chak",
+      "Kokir Saom",
+      "Krasang",
+      "Romeas Haek",
+      "Sambuor",
+      "Trapeang Sdau"
+    ]
+  },
+  {
+    "id": "130",
+    "name": "Svay Chrum",
+    "communes": [
+      "Kampong Chak",
+      "Ksetr",
+      "Monorom",
+      "Pouthi Reach",
+      "Pring Chrum",
+      "Svay Angk",
+      "Svay Chrum",
+      "Svay Yea"
+    ]
+  },
+  {
+    "id": "131",
+    "name": "Svay Rieng",
+    "communes": [
+      "Kampong Chamlang",
+      "Koy Trabaek",
+      "Pou Ta Hao",
+      "Prey Chhlak",
+      "Svay Rieng"
+    ]
+  },
+  {
+    "id": "132",
+    "name": "Svay Teab",
+    "communes": [
+      "Angk Ta Sou",
+      "Chork Mtes",
+      "Kandieng Reay",
+      "Kou Kaeum",
+      "Meun Chey",
+      "Pou Ta Ho",
+      "Prey Ta Bei",
+      "Svay Ta Yean"
+    ]
+  },
+  {
+    "id": "133",
+    "name": "Bavet",
+    "communes": [
+      "Bavet",
+      "Bati",
+      "Chrak Mtes",
+      "Prasat",
+      "Prey Angkunh"
+    ]
+  },
+  {
+    "id": "134",
+    "name": "Angkor Borei",
+    "communes": [
+      "Angkor Borei",
+      "Ba Srae",
+      "Kouk Thlok",
+      "Ponley",
+      "Preaek Phtoul",
+      "Prey Phkoam"
+    ]
+  },
+  {
+    "id": "135",
+    "name": "Bati",
+    "communes": [
+      "Chambak",
+      "Champei",
+      "Chey Kampok",
+      "Doung",
+      "Kandoeng",
+      "Kompong Thkov",
+      "Krang Leav",
+      "Krang Thnong",
+      "Pea Ream",
+      "Pot Sar",
+      "Trapeang Sab",
+      "Trapeang Sap"
+    ]
+  },
+  {
+    "id": "136",
+    "name": "Borei Cholsar",
+    "communes": [
+      "Borey Cholsar",
+      "Doung Khpos",
+      "Kampeng",
+      "Kandaol",
+      "Kaoh Khlot",
+      "Snao"
+    ]
+  },
+  {
+    "id": "137",
+    "name": "Kiri Vong",
+    "communes": [
+      "Kampeaeng",
+      "Kiri Chong Kaoh",
+      "Kiri Chong Kraom",
+      "Preah Bat Choan Chum",
+      "Prey Ampok",
+      "Prey Phdau",
+      "Prey Rumdeng",
+      "Ream Andaeuk",
+      "Ta Ou",
+      "Trapeang Kranhung"
+    ]
+  },
+  {
+    "id": "138",
+    "name": "Kaoh Andaet",
+    "communes": [
+      "Angk Khcheay",
+      "Kaoh Andaet",
+      "Thlea Prachum",
+      "Trapeang Thum",
+      "Trapeang Veaeng"
+    ]
+  },
+  {
+    "id": "139",
+    "name": "Prey Kabbas",
+    "communes": [
+      "Angkanh",
+      "Prey Kabbas",
+      "Prey Lvea",
+      "Prey Phdau",
+      "Prey Yuthka",
+      "Sambuor",
+      "Smaong",
+      "Srae Ronoung",
+      "Thkov"
+    ]
+  },
+  {
+    "id": "140",
+    "name": "Samraong",
+    "communes": [
+      "Boeng",
+      "Chumreah Pen",
+      "Khpob",
+      "Lumchang",
+      "Rovieng",
+      "Samraong",
+      "Trea"
+    ]
+  },
+  {
+    "id": "141",
+    "name": "Doun Kaev",
+    "communes": [
+      "Rokar Khnong",
+      "Rokar Thom",
+      "Baray"
+    ]
+  },
+  {
+    "id": "142",
+    "name": "Tram Kak",
+    "communes": [
+      "Angk Ta Saom",
+      "Cheang Tong",
+      "Kus",
+      "Leay Bour",
+      "Nhaeng Nhang",
+      "Ou Saray",
+      "Popel",
+      "Samraong Kraom",
+      "Srae Ronoung",
+      "Ta Phem",
+      "Trapeang Kranhung",
+      "Trapeang Thum",
+      "Trapeang Tik",
+      "Tram Kak",
+      "Voa Yeav"
+    ]
+  },
+  {
+    "id": "143",
+    "name": "Treang",
+    "communes": [
+      "Angk Prasat",
+      "Angk Ta Sou",
+      "Kouk Ballangk",
+      "Lumtong",
+      "Prasat",
+      "Prey Sokhon",
+      "Sambour",
+      "Smaong",
+      "Srah Srang Tboung",
+      "Ta Soeng",
+      "Thlok",
+      "Tnaot"
+    ]
+  },
+  {
+    "id": "144",
+    "name": "Anlong Veaeng",
+    "communes": [
+      "Anlong Veaeng",
+      "Ou Angkrang",
+      "Lum Tong",
+      "Thlat",
+      "Trapeang Prei"
+    ]
+  },
+  {
+    "id": "145",
+    "name": "Banteay Ampil",
+    "communes": [
+      "Ampil",
+      "Banteay Ampil",
+      "Beng",
+      "Kouk Mon",
+      "Kouk Khpos"
+    ]
+  },
+  {
+    "id": "146",
+    "name": "Chong Kal",
+    "communes": [
+      "Cheung Tien",
+      "Chong Kal",
+      "Krasang",
+      "Pongro"
+    ]
+  },
+  {
+    "id": "147",
+    "name": "Samraong",
+    "communes": [
+      "Bansay Reak",
+      "Bos Sbov",
+      "Koun Kriel",
+      "Ou Smach",
+      "Samraong"
+    ]
+  },
+  {
+    "id": "148",
+    "name": "Trapeang Prasat",
+    "communes": [
+      "Bak Anlung",
+      "Ou Svay",
+      "Prei Chan",
+      "Trapeang Prasat"
+    ]
+  },
+  {
+    "id": "149",
+    "name": "Damnak Chang'aeur",
+    "communes": [
+      "Angkaol",
+      "Ou Krasar",
+      "Pong Tuek"
+    ]
+  },
+  {
+    "id": "150",
+    "name": "Kaeb",
+    "communes": [
+      "Kaeb",
+      "Kep"
+    ]
+  },
+  {
+    "id": "151",
+    "name": "Pailin",
+    "communes": [
+      "Ou Ta Vau",
+      "Pailin",
+      "Tuol Lvea",
+      "Bar Yakha"
+    ]
+  },
+  {
+    "id": "152",
+    "name": "Sala Krau",
+    "communes": [
+      "Ou Andoung",
+      "Sala Krau",
+      "Stueng Kach",
+      "Stueng Trang"
+    ]
+  },
+  {
+    "id": "153",
+    "name": "Dambae",
+    "communes": [
+      "Chong Cheach",
+      "Dambae",
+      "Kouk Srok",
+      "Neang Lem",
+      "Seda",
+      "Trapeang Pring",
+      "Tuek Chrov"
+    ]
+  },
+  {
+    "id": "154",
+    "name": "Krouch Chhmar",
+    "communes": [
+      "Chhuk",
+      "Krouch Chhmar",
+      "Preaek Achi",
+      "Roka Khnaor",
+      "Svay Khleang",
+      "Trea"
+    ]
+  },
+  {
+    "id": "155",
+    "name": "Memot",
+    "communes": [
+      "Chan Mul",
+      "Choam",
+      "Choam Kravien",
+      "Choam Ta Mau",
+      "Dar",
+      "Kandaol Chrum",
+      "Memot",
+      "Rung",
+      "Tonlung",
+      "Tramung"
+    ]
+  },
+  {
+    "id": "156",
+    "name": "Ou Reang Ov",
+    "communes": [
+      "Ampil Ta Pok",
+      "Chi Phoch",
+      "Chrey Thom",
+      "Ou Reang Ov",
+      "Preaek Kak",
+      "Tuol Sophea"
+    ]
+  },
+  {
+    "id": "157",
+    "name": "Ponhea Kraek",
+    "communes": [
+      "Dountei",
+      "Kak",
+      "Kaong Kang",
+      "Kraek",
+      "Popel",
+      "Trapeang Phlong",
+      "Veal Mlu",
+      "Vihear Luong"
+    ]
+  },
+  {
+    "id": "158",
+    "name": "Suong",
+    "communes": [
+      "Khchas",
+      "Suong",
+      "Vihear Luong"
+    ]
+  },
+  {
+    "id": "159",
+    "name": "Tboung Khmum",
+    "communes": [
+      "Anhchaeum",
+      "Chikor",
+      "Chirou Ti Muoy",
+      "Chirou Ti Pir",
+      "Kor",
+      "Seda",
+      "Tonle Bet"
+    ]
+  },
+  {
+    "id": "160",
+    "name": "Angkor Chum",
+    "communes": [
+      "Char Chhuk",
+      "Doun Peaeng",
+      "Kouk Doung",
+      "Kouk Kakthen",
+      "Koul",
+      "Nokor Pheas",
+      "Srae Nouy",
+      "Ta Saom"
+    ]
+  },
+  {
+    "id": "161",
+    "name": "Angkor Thum",
+    "communes": [
+      "Char Chhuk",
+      "Khang Cheung",
+      "Khang Tboung",
+      "Leang Dai",
+      "Peak Snaeng",
+      "Run Ta Aek",
+      "Svay Chek"
+    ]
+  },
+  {
+    "id": "162",
+    "name": "Banteay Srei",
+    "communes": [
+      "Khun Ream",
+      "Kh nar Pou",
+      "Preak Dak",
+      "Rumchek",
+      "Run Ta Aek",
+      "Tbaeng"
+    ]
+  },
+  {
+    "id": "163",
+    "name": "Chi Kraeng",
+    "communes": [
+      "Chi Kraeng",
+      "Kampong Kdei",
+      "Kchas",
+      "Khvav",
+      "Lveaeng Ruessei",
+      "Run Ta Aek",
+      "Sangvaeuy",
+      "Spean Tnaot"
+    ]
+  },
+  {
+    "id": "164",
+    "name": "Kralanh",
+    "communes": [
+      "Chonloas Dai",
+      "Kampong Thkov",
+      "Kralanh",
+      "Krouch Kor",
+      "Run Ta Aek",
+      "Snuol",
+      "Sranal",
+      "Trapeang Thum"
+    ]
+  },
+  {
+    "id": "165",
+    "name": "Puok",
+    "communes": [
+      "Doun Kaev",
+      "Kandeang",
+      "Keo Por",
+      "Lvea",
+      "Puok",
+      "Reul",
+      "Samraong Yea"
+    ]
+  },
+  {
+    "id": "166",
+    "name": "Prasat Bakong",
+    "communes": [
+      "Ampil",
+      "Bakong",
+      "Kampong Phluk",
+      "Kandaek",
+      "Kantreang",
+      "Mean Chey",
+      "Roluos",
+      "Trapeang Thum"
+    ]
+  },
+  {
+    "id": "167",
+    "name": "Siem Reap",
+    "communes": [
+      "Ampil",
+      "Chong Khnies",
+      "Kandaek",
+      "Nokor Thom",
+      "Sala Kamreuk",
+      "Sla Kram",
+      "Srangae",
+      "Svay Dangkum",
+      "Teuk Vil"
+    ]
+  },
+  {
+    "id": "168",
+    "name": "Soutr Nikom",
+    "communes": [
+      "Chan Sa",
+      "Dam Daek",
+      "Dan Run",
+      "Kien Sangkae",
+      "Khchas",
+      "Popel",
+      "Samraong",
+      "Ta Yaek"
+    ]
+  },
+  {
+    "id": "169",
+    "name": "Srei Snam",
+    "communes": [
+      "Chhuk",
+      "Klaeng",
+      "Slaeng Spean",
+      "Srei Snam",
+      "Ta Kream"
+    ]
+  },
+  {
+    "id": "170",
+    "name": "Svay Leu",
+    "communes": [
+      "Boeng Mealea",
+      "Kantuot",
+      "Khvang",
+      "Lveaeng Ruessei",
+      "Svay Leu",
+      "Ta Siem"
+    ]
+  },
+  {
+    "id": "171",
+    "name": "Varin",
+    "communes": [
+      "Lvea Krang",
+      "Prasat",
+      "Srae Nouy",
+      "Svay Sa",
+      "Varin"
+    ]
+  },
+  {
+    "id": "172",
+    "name": "Preah Sihanouk",
+    "communes": [
+      "Sangkat Muoy",
+      "Sangkat Pir",
+      "Sangkat Bei",
+      "Sangkat Buon"
+    ]
+  },
+  {
+    "id": "173",
+    "name": "Prey Nob",
+    "communes": [
+      "Bet Trang",
+      "Cheung Kou",
+      "Kampong Smach",
+      "Ou Tres",
+      "Prey Nob",
+      "Samrong",
+      "Teuk Laak",
+      "Teuk Thla",
+      "Tuek L'ak",
+      "Veal Renh"
+    ]
+  },
+  {
+    "id": "174",
+    "name": "Stueng Hav",
+    "communes": [
+      "Kampong Smach",
+      "Ou Treh",
+      "Tumnob Rolok",
+      "Tomnop Rolok"
+    ]
+  },
+  {
+    "id": "175",
+    "name": "Kampong Seila",
+    "communes": [
+      "Champa",
+      "Kampong Seila",
+      "Ou Bak Roteh",
+      "Stueng Chhay"
+    ]
+  },
+  {
+    "id": "176",
+    "name": "Koh Rong",
+    "communes": [
+      "Koh Rong",
+      "Koh Rong Sanloem"
+    ]
+  },
+  {
+    "id": "177",
+    "name": "Andoung Meas",
+    "communes": [
+      "Malik",
+      "Nhang",
+      "Ta Lav"
+    ]
+  },
+  {
+    "id": "178",
+    "name": "Ban Lung",
+    "communes": [
+      "Kachanh",
+      "Labansiek",
+      "Yeak Laom",
+      "Boeng Kansaeng"
+    ]
+  },
+  {
+    "id": "179",
+    "name": "Bar Kaev",
+    "communes": [
+      "Kak",
+      "Keh Chong",
+      "La Minh",
+      "Lung Khung",
+      "Saeung",
+      "Ting Chak"
+    ]
+  },
+  {
+    "id": "180",
+    "name": "Koun Mom",
+    "communes": [
+      "Serei Mongkol",
+      "Srae Angkrorng",
+      "Ta Ang",
+      "Teun",
+      "Trapeang Chres",
+      "Trapeang Kraham"
+    ]
+  },
+  {
+    "id": "181",
+    "name": "Lumphat",
+    "communes": [
+      "Chey Otdam",
+      "Ka Laeng",
+      "Lbang Muoy",
+      "Lbang Pir",
+      "Ba Tang",
+      "Seda"
+    ]
+  },
+  {
+    "id": "182",
+    "name": "Ou Chum",
+    "communes": [
+      "Cha Ung",
+      "Chan",
+      "Aekakpheap",
+      "Kalai",
+      "Ou Chum",
+      "Sameakki",
+      "L'ak"
+    ]
+  },
+  {
+    "id": "183",
+    "name": "Ou Ya Dav",
+    "communes": [
+      "Bar Kham",
+      "Lum Choar",
+      "Pak Nhai",
+      "Pate",
+      "Sesant",
+      "Saom Thum",
+      "Ya Tung"
+    ]
+  },
+  {
+    "id": "184",
+    "name": "Ta Veaeng",
+    "communes": [
+      "Ta Veaeng Leu",
+      "Ta Veaeng Kraom"
+    ]
+  },
+  {
+    "id": "185",
+    "name": "Veun Sai",
+    "communes": [
+      "Ban Pong",
+      "Hat Pak",
+      "Ka Choun",
+      "Kaoh Pang",
+      "Kaoh Peak",
+      "Kok Lak",
+      "Pa Kalan",
+      "Phnum Kok",
+      "Veun Sai"
+    ]
+  }
+]

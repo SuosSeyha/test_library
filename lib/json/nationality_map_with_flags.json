@@ -1,0 +1,786 @@
+{
+  "AF": {
+    "nationality": "Afghan",
+    "flag": "\ud83c\udde6\ud83c\uddeb"
+  },
+  "AL": {
+    "nationality": "Albanian",
+    "flag": "\ud83c\udde6\ud83c\uddf1"
+  },
+  "DZ": {
+    "nationality": "Algerian",
+    "flag": "\ud83c\udde9\ud83c\uddff"
+  },
+  "AS": {
+    "nationality": "American Samoan",
+    "flag": "\ud83c\udde6\ud83c\uddf8"
+  },
+  "AD": {
+    "nationality": "Andorran",
+    "flag": "\ud83c\udde6\ud83c\udde9"
+  },
+  "AO": {
+    "nationality": "Angolan",
+    "flag": "\ud83c\udde6\ud83c\uddf4"
+  },
+  "AI": {
+    "nationality": "Anguillan",
+    "flag": "\ud83c\udde6\ud83c\uddee"
+  },
+  "AG": {
+    "nationality": "Antiguan or Barbudan",
+    "flag": "\ud83c\udde6\ud83c\uddec"
+  },
+  "AR": {
+    "nationality": "Argentine",
+    "flag": "\ud83c\udde6\ud83c\uddf7"
+  },
+  "AM": {
+    "nationality": "Armenian",
+    "flag": "\ud83c\udde6\ud83c\uddf2"
+  },
+  "AW": {
+    "nationality": "Aruban",
+    "flag": "\ud83c\udde6\ud83c\uddfc"
+  },
+  "AU": {
+    "nationality": "Australian",
+    "flag": "\ud83c\udde6\ud83c\uddfa"
+  },
+  "AT": {
+    "nationality": "Austrian",
+    "flag": "\ud83c\udde6\ud83c\uddf9"
+  },
+  "AZ": {
+    "nationality": "Azerbaijani",
+    "flag": "\ud83c\udde6\ud83c\uddff"
+  },
+  "BS": {
+    "nationality": "Bahamian",
+    "flag": "\ud83c\udde7\ud83c\uddf8"
+  },
+  "BH": {
+    "nationality": "Bahraini",
+    "flag": "\ud83c\udde7\ud83c\udded"
+  },
+  "BD": {
+    "nationality": "Bangladeshi",
+    "flag": "\ud83c\udde7\ud83c\udde9"
+  },
+  "BB": {
+    "nationality": "Barbadian",
+    "flag": "\ud83c\udde7\ud83c\udde7"
+  },
+  "BY": {
+    "nationality": "Belarusian",
+    "flag": "\ud83c\udde7\ud83c\uddfe"
+  },
+  "BE": {
+    "nationality": "Belgian",
+    "flag": "\ud83c\udde7\ud83c\uddea"
+  },
+  "BZ": {
+    "nationality": "Belizean",
+    "flag": "\ud83c\udde7\ud83c\uddff"
+  },
+  "BJ": {
+    "nationality": "Beninese",
+    "flag": "\ud83c\udde7\ud83c\uddef"
+  },
+  "BM": {
+    "nationality": "Bermudian",
+    "flag": "\ud83c\udde7\ud83c\uddf2"
+  },
+  "BT": {
+    "nationality": "Bhutanese",
+    "flag": "\ud83c\udde7\ud83c\uddf9"
+  },
+  "BO": {
+    "nationality": "Bolivian",
+    "flag": "\ud83c\udde7\ud83c\uddf4"
+  },
+  "BA": {
+    "nationality": "Bosnian or Herzegovinian",
+    "flag": "\ud83c\udde7\ud83c\udde6"
+  },
+  "BW": {
+    "nationality": "Motswana",
+    "flag": "\ud83c\udde7\ud83c\uddfc"
+  },
+  "BR": {
+    "nationality": "Brazilian",
+    "flag": "\ud83c\udde7\ud83c\uddf7"
+  },
+  "BN": {
+    "nationality": "Bruneian",
+    "flag": "\ud83c\udde7\ud83c\uddf3"
+  },
+  "BG": {
+    "nationality": "Bulgarian",
+    "flag": "\ud83c\udde7\ud83c\uddec"
+  },
+  "BF": {
+    "nationality": "Burkinab\u00e9",
+    "flag": "\ud83c\udde7\ud83c\uddeb"
+  },
+  "BI": {
+    "nationality": "Burundian",
+    "flag": "\ud83c\udde7\ud83c\uddee"
+  },
+  "KH": {
+    "nationality": "Cambodian",
+    "flag": "\ud83c\uddf0\ud83c\udded"
+  },
+  "CM": {
+    "nationality": "Cameroonian",
+    "flag": "\ud83c\udde8\ud83c\uddf2"
+  },
+  "CA": {
+    "nationality": "Canadian",
+    "flag": "\ud83c\udde8\ud83c\udde6"
+  },
+  "CV": {
+    "nationality": "Cape Verdean",
+    "flag": "\ud83c\udde8\ud83c\uddfb"
+  },
+  "KY": {
+    "nationality": "Caymanian",
+    "flag": "\ud83c\uddf0\ud83c\uddfe"
+  },
+  "CF": {
+    "nationality": "Central African",
+    "flag": "\ud83c\udde8\ud83c\uddeb"
+  },
+  "TD": {
+    "nationality": "Chadian",
+    "flag": "\ud83c\uddf9\ud83c\udde9"
+  },
+  "CL": {
+    "nationality": "Chilean",
+    "flag": "\ud83c\udde8\ud83c\uddf1"
+  },
+  "CN": {
+    "nationality": "Chinese",
+    "flag": "\ud83c\udde8\ud83c\uddf3"
+  },
+  "CO": {
+    "nationality": "Colombian",
+    "flag": "\ud83c\udde8\ud83c\uddf4"
+  },
+  "KM": {
+    "nationality": "Comoran",
+    "flag": "\ud83c\uddf0\ud83c\uddf2"
+  },
+  "CG": {
+    "nationality": "Congolese",
+    "flag": "\ud83c\udde8\ud83c\uddec"
+  },
+  "CR": {
+    "nationality": "Costa Rican",
+    "flag": "\ud83c\udde8\ud83c\uddf7"
+  },
+  "HR": {
+    "nationality": "Croatian",
+    "flag": "\ud83c\udded\ud83c\uddf7"
+  },
+  "CU": {
+    "nationality": "Cuban",
+    "flag": "\ud83c\udde8\ud83c\uddfa"
+  },
+  "CY": {
+    "nationality": "Cypriot",
+    "flag": "\ud83c\udde8\ud83c\uddfe"
+  },
+  "CZ": {
+    "nationality": "Czech",
+    "flag": "\ud83c\udde8\ud83c\uddff"
+  },
+  "DK": {
+    "nationality": "Danish",
+    "flag": "\ud83c\udde9\ud83c\uddf0"
+  },
+  "DJ": {
+    "nationality": "Djiboutian",
+    "flag": "\ud83c\udde9\ud83c\uddef"
+  },
+  "DM": {
+    "nationality": "Dominican",
+    "flag": "\ud83c\udde9\ud83c\uddf2"
+  },
+  "DO": {
+    "nationality": "Dominican",
+    "flag": "\ud83c\udde9\ud83c\uddf4"
+  },
+  "EC": {
+    "nationality": "Ecuadorian",
+    "flag": "\ud83c\uddea\ud83c\udde8"
+  },
+  "EG": {
+    "nationality": "Egyptian",
+    "flag": "\ud83c\uddea\ud83c\uddec"
+  },
+  "SV": {
+    "nationality": "Salvadoran",
+    "flag": "\ud83c\uddf8\ud83c\uddfb"
+  },
+  "GQ": {
+    "nationality": "Equatorial Guinean",
+    "flag": "\ud83c\uddec\ud83c\uddf6"
+  },
+  "ER": {
+    "nationality": "Eritrean",
+    "flag": "\ud83c\uddea\ud83c\uddf7"
+  },
+  "EE": {
+    "nationality": "Estonian",
+    "flag": "\ud83c\uddea\ud83c\uddea"
+  },
+  "ET": {
+    "nationality": "Ethiopian",
+    "flag": "\ud83c\uddea\ud83c\uddf9"
+  },
+  "FJ": {
+    "nationality": "Fijian",
+    "flag": "\ud83c\uddeb\ud83c\uddef"
+  },
+  "FI": {
+    "nationality": "Finnish",
+    "flag": "\ud83c\uddeb\ud83c\uddee"
+  },
+  "FR": {
+    "nationality": "French",
+    "flag": "\ud83c\uddeb\ud83c\uddf7"
+  },
+  "GA": {
+    "nationality": "Gabonese",
+    "flag": "\ud83c\uddec\ud83c\udde6"
+  },
+  "GM": {
+    "nationality": "Gambian",
+    "flag": "\ud83c\uddec\ud83c\uddf2"
+  },
+  "GE": {
+    "nationality": "Georgian",
+    "flag": "\ud83c\uddec\ud83c\uddea"
+  },
+  "DE": {
+    "nationality": "German",
+    "flag": "\ud83c\udde9\ud83c\uddea"
+  },
+  "GH": {
+    "nationality": "Ghanaian",
+    "flag": "\ud83c\uddec\ud83c\udded"
+  },
+  "GR": {
+    "nationality": "Greek",
+    "flag": "\ud83c\uddec\ud83c\uddf7"
+  },
+  "GD": {
+    "nationality": "Grenadian",
+    "flag": "\ud83c\uddec\ud83c\udde9"
+  },
+  "GT": {
+    "nationality": "Guatemalan",
+    "flag": "\ud83c\uddec\ud83c\uddf9"
+  },
+  "GN": {
+    "nationality": "Guinean",
+    "flag": "\ud83c\uddec\ud83c\uddf3"
+  },
+  "GW": {
+    "nationality": "Bissau-Guinean",
+    "flag": "\ud83c\uddec\ud83c\uddfc"
+  },
+  "GY": {
+    "nationality": "Guyanese",
+    "flag": "\ud83c\uddec\ud83c\uddfe"
+  },
+  "HT": {
+    "nationality": "Haitian",
+    "flag": "\ud83c\udded\ud83c\uddf9"
+  },
+  "HN": {
+    "nationality": "Honduran",
+    "flag": "\ud83c\udded\ud83c\uddf3"
+  },
+  "HU": {
+    "nationality": "Hungarian",
+    "flag": "\ud83c\udded\ud83c\uddfa"
+  },
+  "IS": {
+    "nationality": "Icelander",
+    "flag": "\ud83c\uddee\ud83c\uddf8"
+  },
+  "IN": {
+    "nationality": "Indian",
+    "flag": "\ud83c\uddee\ud83c\uddf3"
+  },
+  "ID": {
+    "nationality": "Indonesian",
+    "flag": "\ud83c\uddee\ud83c\udde9"
+  },
+  "IR": {
+    "nationality": "Iranian",
+    "flag": "\ud83c\uddee\ud83c\uddf7"
+  },
+  "IQ": {
+    "nationality": "Iraqi",
+    "flag": "\ud83c\uddee\ud83c\uddf6"
+  },
+  "IE": {
+    "nationality": "Irish",
+    "flag": "\ud83c\uddee\ud83c\uddea"
+  },
+  "IL": {
+    "nationality": "Israeli",
+    "flag": "\ud83c\uddee\ud83c\uddf1"
+  },
+  "IT": {
+    "nationality": "Italian",
+    "flag": "\ud83c\uddee\ud83c\uddf9"
+  },
+  "CI": {
+    "nationality": "Ivorian",
+    "flag": "\ud83c\udde8\ud83c\uddee"
+  },
+  "JM": {
+    "nationality": "Jamaican",
+    "flag": "\ud83c\uddef\ud83c\uddf2"
+  },
+  "JP": {
+    "nationality": "Japanese",
+    "flag": "\ud83c\uddef\ud83c\uddf5"
+  },
+  "JO": {
+    "nationality": "Jordanian",
+    "flag": "\ud83c\uddef\ud83c\uddf4"
+  },
+  "KZ": {
+    "nationality": "Kazakh",
+    "flag": "\ud83c\uddf0\ud83c\uddff"
+  },
+  "KE": {
+    "nationality": "Kenyan",
+    "flag": "\ud83c\uddf0\ud83c\uddea"
+  },
+  "KI": {
+    "nationality": "I-Kiribati",
+    "flag": "\ud83c\uddf0\ud83c\uddee"
+  },
+  "KP": {
+    "nationality": "North Korean",
+    "flag": "\ud83c\uddf0\ud83c\uddf5"
+  },
+  "KR": {
+    "nationality": "South Korean",
+    "flag": "\ud83c\uddf0\ud83c\uddf7"
+  },
+  "KW": {
+    "nationality": "Kuwaiti",
+    "flag": "\ud83c\uddf0\ud83c\uddfc"
+  },
+  "KG": {
+    "nationality": "Kyrgyz",
+    "flag": "\ud83c\uddf0\ud83c\uddec"
+  },
+  "LA": {
+    "nationality": "Lao",
+    "flag": "\ud83c\uddf1\ud83c\udde6"
+  },
+  "LV": {
+    "nationality": "Latvian",
+    "flag": "\ud83c\uddf1\ud83c\uddfb"
+  },
+  "LB": {
+    "nationality": "Lebanese",
+    "flag": "\ud83c\uddf1\ud83c\udde7"
+  },
+  "LS": {
+    "nationality": "Basotho",
+    "flag": "\ud83c\uddf1\ud83c\uddf8"
+  },
+  "LR": {
+    "nationality": "Liberian",
+    "flag": "\ud83c\uddf1\ud83c\uddf7"
+  },
+  "LY": {
+    "nationality": "Libyan",
+    "flag": "\ud83c\uddf1\ud83c\uddfe"
+  },
+  "LI": {
+    "nationality": "Liechtensteiner",
+    "flag": "\ud83c\uddf1\ud83c\uddee"
+  },
+  "LT": {
+    "nationality": "Lithuanian",
+    "flag": "\ud83c\uddf1\ud83c\uddf9"
+  },
+  "LU": {
+    "nationality": "Luxembourger",
+    "flag": "\ud83c\uddf1\ud83c\uddfa"
+  },
+  "MG": {
+    "nationality": "Malagasy",
+    "flag": "\ud83c\uddf2\ud83c\uddec"
+  },
+  "MW": {
+    "nationality": "Malawian",
+    "flag": "\ud83c\uddf2\ud83c\uddfc"
+  },
+  "MY": {
+    "nationality": "Malaysian",
+    "flag": "\ud83c\uddf2\ud83c\uddfe"
+  },
+  "MV": {
+    "nationality": "Maldivian",
+    "flag": "\ud83c\uddf2\ud83c\uddfb"
+  },
+  "ML": {
+    "nationality": "Malian",
+    "flag": "\ud83c\uddf2\ud83c\uddf1"
+  },
+  "MT": {
+    "nationality": "Maltese",
+    "flag": "\ud83c\uddf2\ud83c\uddf9"
+  },
+  "MH": {
+    "nationality": "Marshallese",
+    "flag": "\ud83c\uddf2\ud83c\udded"
+  },
+  "MR": {
+    "nationality": "Mauritanian",
+    "flag": "\ud83c\uddf2\ud83c\uddf7"
+  },
+  "MU": {
+    "nationality": "Mauritian",
+    "flag": "\ud83c\uddf2\ud83c\uddfa"
+  },
+  "MX": {
+    "nationality": "Mexican",
+    "flag": "\ud83c\uddf2\ud83c\uddfd"
+  },
+  "FM": {
+    "nationality": "Micronesian",
+    "flag": "\ud83c\uddeb\ud83c\uddf2"
+  },
+  "MD": {
+    "nationality": "Moldovan",
+    "flag": "\ud83c\uddf2\ud83c\udde9"
+  },
+  "MC": {
+    "nationality": "Monegasque",
+    "flag": "\ud83c\uddf2\ud83c\udde8"
+  },
+  "MN": {
+    "nationality": "Mongolian",
+    "flag": "\ud83c\uddf2\ud83c\uddf3"
+  },
+  "ME": {
+    "nationality": "Montenegrin",
+    "flag": "\ud83c\uddf2\ud83c\uddea"
+  },
+  "MA": {
+    "nationality": "Moroccan",
+    "flag": "\ud83c\uddf2\ud83c\udde6"
+  },
+  "MZ": {
+    "nationality": "Mozambican",
+    "flag": "\ud83c\uddf2\ud83c\uddff"
+  },
+  "MM": {
+    "nationality": "Burmese",
+    "flag": "\ud83c\uddf2\ud83c\uddf2"
+  },
+  "NA": {
+    "nationality": "Namibian",
+    "flag": "\ud83c\uddf3\ud83c\udde6"
+  },
+  "NR": {
+    "nationality": "Nauruan",
+    "flag": "\ud83c\uddf3\ud83c\uddf7"
+  },
+  "NP": {
+    "nationality": "Nepali",
+    "flag": "\ud83c\uddf3\ud83c\uddf5"
+  },
+  "NL": {
+    "nationality": "Dutch",
+    "flag": "\ud83c\uddf3\ud83c\uddf1"
+  },
+  "NZ": {
+    "nationality": "New Zealander",
+    "flag": "\ud83c\uddf3\ud83c\uddff"
+  },
+  "NI": {
+    "nationality": "Nicaraguan",
+    "flag": "\ud83c\uddf3\ud83c\uddee"
+  },
+  "NE": {
+    "nationality": "Nigerien",
+    "flag": "\ud83c\uddf3\ud83c\uddea"
+  },
+  "NG": {
+    "nationality": "Nigerian",
+    "flag": "\ud83c\uddf3\ud83c\uddec"
+  },
+  "NO": {
+    "nationality": "Norwegian",
+    "flag": "\ud83c\uddf3\ud83c\uddf4"
+  },
+  "OM": {
+    "nationality": "Omani",
+    "flag": "\ud83c\uddf4\ud83c\uddf2"
+  },
+  "PK": {
+    "nationality": "Pakistani",
+    "flag": "\ud83c\uddf5\ud83c\uddf0"
+  },
+  "PW": {
+    "nationality": "Palauan",
+    "flag": "\ud83c\uddf5\ud83c\uddfc"
+  },
+  "PA": {
+    "nationality": "Panamanian",
+    "flag": "\ud83c\uddf5\ud83c\udde6"
+  },
+  "PG": {
+    "nationality": "Papua New Guinean",
+    "flag": "\ud83c\uddf5\ud83c\uddec"
+  },
+  "PY": {
+    "nationality": "Paraguayan",
+    "flag": "\ud83c\uddf5\ud83c\uddfe"
+  },
+  "PE": {
+    "nationality": "Peruvian",
+    "flag": "\ud83c\uddf5\ud83c\uddea"
+  },
+  "PH": {
+    "nationality": "Filipino",
+    "flag": "\ud83c\uddf5\ud83c\udded"
+  },
+  "PL": {
+    "nationality": "Polish",
+    "flag": "\ud83c\uddf5\ud83c\uddf1"
+  },
+  "PT": {
+    "nationality": "Portuguese",
+    "flag": "\ud83c\uddf5\ud83c\uddf9"
+  },
+  "QA": {
+    "nationality": "Qatari",
+    "flag": "\ud83c\uddf6\ud83c\udde6"
+  },
+  "RO": {
+    "nationality": "Romanian",
+    "flag": "\ud83c\uddf7\ud83c\uddf4"
+  },
+  "RU": {
+    "nationality": "Russian",
+    "flag": "\ud83c\uddf7\ud83c\uddfa"
+  },
+  "RW": {
+    "nationality": "Rwandan",
+    "flag": "\ud83c\uddf7\ud83c\uddfc"
+  },
+  "KN": {
+    "nationality": "Kittitian or Nevisian",
+    "flag": "\ud83c\uddf0\ud83c\uddf3"
+  },
+  "LC": {
+    "nationality": "Saint Lucian",
+    "flag": "\ud83c\uddf1\ud83c\udde8"
+  },
+  "VC": {
+    "nationality": "Vincentian",
+    "flag": "\ud83c\uddfb\ud83c\udde8"
+  },
+  "WS": {
+    "nationality": "Samoan",
+    "flag": "\ud83c\uddfc\ud83c\uddf8"
+  },
+  "SM": {
+    "nationality": "Sammarinese",
+    "flag": "\ud83c\uddf8\ud83c\uddf2"
+  },
+  "ST": {
+    "nationality": "Sao Tomean",
+    "flag": "\ud83c\uddf8\ud83c\uddf9"
+  },
+  "SA": {
+    "nationality": "Saudi Arabian",
+    "flag": "\ud83c\uddf8\ud83c\udde6"
+  },
+  "SN": {
+    "nationality": "Senegalese",
+    "flag": "\ud83c\uddf8\ud83c\uddf3"
+  },
+  "RS": {
+    "nationality": "Serbian",
+    "flag": "\ud83c\uddf7\ud83c\uddf8"
+  },
+  "SC": {
+    "nationality": "Seychellois",
+    "flag": "\ud83c\uddf8\ud83c\udde8"
+  },
+  "SL": {
+    "nationality": "Sierra Leonean",
+    "flag": "\ud83c\uddf8\ud83c\uddf1"
+  },
+  "SG": {
+    "nationality": "Singaporean",
+    "flag": "\ud83c\uddf8\ud83c\uddec"
+  },
+  "SK": {
+    "nationality": "Slovak",
+    "flag": "\ud83c\uddf8\ud83c\uddf0"
+  },
+  "SI": {
+    "nationality": "Slovene",
+    "flag": "\ud83c\uddf8\ud83c\uddee"
+  },
+  "SB": {
+    "nationality": "Solomon Islander",
+    "flag": "\ud83c\uddf8\ud83c\udde7"
+  },
+  "SO": {
+    "nationality": "Somali",
+    "flag": "\ud83c\uddf8\ud83c\uddf4"
+  },
+  "ZA": {
+    "nationality": "South African",
+    "flag": "\ud83c\uddff\ud83c\udde6"
+  },
+  "SS": {
+    "nationality": "South Sudanese",
+    "flag": "\ud83c\uddf8\ud83c\uddf8"
+  },
+  "ES": {
+    "nationality": "Spanish",
+    "flag": "\ud83c\uddea\ud83c\uddf8"
+  },
+  "LK": {
+    "nationality": "Sri Lankan",
+    "flag": "\ud83c\uddf1\ud83c\uddf0"
+  },
+  "SD": {
+    "nationality": "Sudanese",
+    "flag": "\ud83c\uddf8\ud83c\udde9"
+  },
+  "SR": {
+    "nationality": "Surinamese",
+    "flag": "\ud83c\uddf8\ud83c\uddf7"
+  },
+  "SZ": {
+    "nationality": "Swazi",
+    "flag": "\ud83c\uddf8\ud83c\uddff"
+  },
+  "SE": {
+    "nationality": "Swedish",
+    "flag": "\ud83c\uddf8\ud83c\uddea"
+  },
+  "CH": {
+    "nationality": "Swiss",
+    "flag": "\ud83c\udde8\ud83c\udded"
+  },
+  "SY": {
+    "nationality": "Syrian",
+    "flag": "\ud83c\uddf8\ud83c\uddfe"
+  },
+  "TW": {
+    "nationality": "Taiwanese",
+    "flag": "\ud83c\uddf9\ud83c\uddfc"
+  },
+  "TJ": {
+    "nationality": "Tajik",
+    "flag": "\ud83c\uddf9\ud83c\uddef"
+  },
+  "TZ": {
+    "nationality": "Tanzanian",
+    "flag": "\ud83c\uddf9\ud83c\uddff"
+  },
+  "TH": {
+    "nationality": "Thai",
+    "flag": "\ud83c\uddf9\ud83c\udded"
+  },
+  "TL": {
+    "nationality": "Timorese",
+    "flag": "\ud83c\uddf9\ud83c\uddf1"
+  },
+  "TG": {
+    "nationality": "Togolese",
+    "flag": "\ud83c\uddf9\ud83c\uddec"
+  },
+  "TO": {
+    "nationality": "Tongan",
+    "flag": "\ud83c\uddf9\ud83c\uddf4"
+  },
+  "TT": {
+    "nationality": "Trinidadian or Tobagonian",
+    "flag": "\ud83c\uddf9\ud83c\uddf9"
+  },
+  "TN": {
+    "nationality": "Tunisian",
+    "flag": "\ud83c\uddf9\ud83c\uddf3"
+  },
+  "TR": {
+    "nationality": "Turkish",
+    "flag": "\ud83c\uddf9\ud83c\uddf7"
+  },
+  "TM": {
+    "nationality": "Turkmen",
+    "flag": "\ud83c\uddf9\ud83c\uddf2"
+  },
+  "UG": {
+    "nationality": "Ugandan",
+    "flag": "\ud83c\uddfa\ud83c\uddec"
+  },
+  "UA": {
+    "nationality": "Ukrainian",
+    "flag": "\ud83c\uddfa\ud83c\udde6"
+  },
+  "AE": {
+    "nationality": "Emirati",
+    "flag": "\ud83c\udde6\ud83c\uddea"
+  },
+  "GB": {
+    "nationality": "British",
+    "flag": "\ud83c\uddec\ud83c\udde7"
+  },
+  "US": {
+    "nationality": "American",
+    "flag": "\ud83c\uddfa\ud83c\uddf8"
+  },
+  "UY": {
+    "nationality": "Uruguayan",
+    "flag": "\ud83c\uddfa\ud83c\uddfe"
+  },
+  "UZ": {
+    "nationality": "Uzbek",
+    "flag": "\ud83c\uddfa\ud83c\uddff"
+  },
+  "VU": {
+    "nationality": "Ni-Vanuatu",
+    "flag": "\ud83c\uddfb\ud83c\uddfa"
+  },
+  "VE": {
+    "nationality": "Venezuelan",
+    "flag": "\ud83c\uddfb\ud83c\uddea"
+  },
+  "VN": {
+    "nationality": "Vietnamese",
+    "flag": "\ud83c\uddfb\ud83c\uddf3"
+  },
+  "YE": {
+    "nationality": "Yemeni",
+    "flag": "\ud83c\uddfe\ud83c\uddea"
+  },
+  "ZM": {
+    "nationality": "Zambian",
+    "flag": "\ud83c\uddff\ud83c\uddf2"
+  },
+  "ZW": {
+    "nationality": "Zimbabwean",
+    "flag": "\ud83c\uddff\ud83c\uddfc"
+  }
+}
