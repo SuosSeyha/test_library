@@ -44,6 +44,7 @@ class _ProfileSettingsPageState extends State<ProfileSettingsPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        centerTitle: true,
         title: const Text('Profile Settings'),
       ),
       body: Padding(
@@ -174,7 +175,7 @@ class _ProfileSettingsPageState extends State<ProfileSettingsPage> {
                   );
                 }
               },
-              child: const Text('Save'),
+              child: const Text('Update Profile'),
             ),
           ],
         ),
